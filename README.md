@@ -1,2 +1,2 @@
-# markdown
-markdown 파일(.md) 정리
+# 개인 공부한것 정리한 디렉터리 입니다
+# 1. markdown 정리 
