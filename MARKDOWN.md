@@ -8,7 +8,7 @@
 ### HTML
 > `<p></p>`을 삽입해 <p>나눌수도 있습니다</p>
 
-<br><br><br>
+<br><br>
 
 # 제목
 ### Markdown
