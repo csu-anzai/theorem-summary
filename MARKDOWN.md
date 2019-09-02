@@ -64,5 +64,5 @@
 > http://www.google.com
 ## 그림
 ### Markdown
-> - `[]`와 `()`을 사용하되 맨앞에 !.
->   ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
+> - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.
+>   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은 ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
