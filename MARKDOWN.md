@@ -33,13 +33,13 @@
 > 1개 사용시 *기울림(이탤릭체)*, 2개 사용시 **굵게(볼드체)**, 3개 사용시 ***굵게 기울림*** 입니다.
 >
 >
-> `*q*` 는 *q*  
-> `**w**` 는 **w**  
-> `***e***` 는 ***e***  
+>   `*q*` 는 *q*  
+>   `**w**` 는 **w**  
+>   `***e***` 는 ***e***  
 >
->`_q_` 는 _q_  
->`__w__` 는 __w__  
->`___e___` 는 ___e___ 
+>   `_q_` 는 _q_  
+>   `__w__` 는 __w__  
+>   `___e___` 는 ___e___ 
 > - ``(홑따옴표) 안에 글씨를 입력하면 `블록` 처리 됩니다.
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
@@ -56,6 +56,8 @@
 
 # 링크
 ### Markdown
-> `[]`와 `()`을 사용합니다.
-> `[Google](http://www.google.co.kr)` 은 [Google](http://www.google.co.kr)  
->  http://www.google.com
+> - `[]`와 `()`을 사용합니다.
+>   `[Google](http://www.google.co.kr)` 은 [Google](http://www.google.co.kr)
+>
+> - 또는 링크 자체를 삽입하여 사용합니다.
+> http://www.google.com
