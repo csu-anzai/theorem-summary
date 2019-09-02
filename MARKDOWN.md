@@ -40,7 +40,7 @@
 >   `_q_` 는 _q_  
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
-> - ``(홑따옴표) 안에 글씨를 입력하면 `블록` 처리 됩니다.
+> - ``(홑따옴표) 안에 글씨를 입력하면 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
 > - `<i></i>` 또는 `<em></em>`을 사용해 <i>기울림</i><em>처리</em> 
@@ -55,9 +55,14 @@
 > `<u><\u>` 를 이용하여 <u>밑줄</u>을 표현합니다.~~
 
 # 링크
+## 웹
 ### Markdown
 > - `[]`와 `()`을 사용합니다.
 >   `[Google](http://www.google.co.kr)` 은 [Google](http://www.google.co.kr)
 >
 > - 또는 링크 자체를 삽입하여 사용합니다.
 > http://www.google.com
+## 그림
+### Markdown
+> - `[]`와 `()`을 사용하되 맨앞에 !.
+>   ![밥](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjB65PU3rHkAhWMy4sBHU8PA9YQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.bibigo.com%2Fkr%2Fat-home-bap&psig=AOvVaw1WxtB8rxb_5KHCoNSIidS-&ust=1567499982955405)
