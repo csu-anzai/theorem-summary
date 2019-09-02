@@ -65,4 +65,4 @@
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !.
->   ![밥](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjB65PU3rHkAhWMy4sBHU8PA9YQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.bibigo.com%2Fkr%2Fat-home-bap&psig=AOvVaw1WxtB8rxb_5KHCoNSIidS-&ust=1567499982955405)
+>   ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
