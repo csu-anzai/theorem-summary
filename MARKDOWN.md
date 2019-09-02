@@ -58,4 +58,4 @@
 ### Markdown
 > `[]`와 `()`을 사용합니다.
 > `[Google](http://www.google.co.kr)` 은 [Google](http://www.google.co.kr)  
-> 또는 `[Google]: http://www.google.com` [Google]: http://www.google.com
+>  http://www.google.com
