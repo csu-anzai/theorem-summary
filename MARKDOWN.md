@@ -82,13 +82,13 @@
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)`<br>  
-    이는 다음과 같이 표현됩니다.  
+>  이는 다음과 같이 표현됩니다.  
 >    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
 > - `<img></img>`를 사용합니다.
 >   `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">`<br>  
-   이는 다음과 같이 표현됩니다.  
+>   이는 다음과 같이 표현됩니다.  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
 >> img : image, 이미지 / src : source, 출처
 
@@ -114,7 +114,7 @@
 >
 > ![목차](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%EB%AA%A9%EC%B0%A8.png)  
 >
-이는 다음과 같이 표현됩니다.
+> 이는 다음과 같이 표현됩니다.
 > - 목차1
 >   - 목차2 
 >     - 목차3
@@ -123,7 +123,7 @@
 >
 > ![숫자 목차](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%EC%88%AB%EC%9E%90%20%EB%AA%A9%EC%B0%A8.PNG)  
 >
- 이는 다음과 같이 표현됩니다.
+> 이는 다음과 같이 표현됩니다.
 > 1. 목차1
 > 1. 목차2
 > 1. 목차3
@@ -160,9 +160,7 @@ void f(){
 > `>인용1`  
 > `>>인용2`  
 > `>>>인용3`<br>  
-
-이는 다음과 같이 표현됩니다.  
-
+> 이는 다음과 같이 표현됩니다.<br>  
 > 인용1
 >> 인용2
 >>> 인용3
