@@ -69,7 +69,8 @@
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은  
 >    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
-> - `<img></img>`를 사용합니다. `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
+> - `<img></img>`를 사용합니다.
+>   `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
 
