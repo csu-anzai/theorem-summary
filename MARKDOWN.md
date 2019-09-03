@@ -67,5 +67,5 @@
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은 ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
-> - `<a></a>`를 사용합니다.
->   `<a href="http://www.bibigo.com/img/kr/img_bap1.jpg">밥</a>` 은 <a href="http://www.bibigo.com/img/kr/img_bap1.jpg">밥</a>
+> - `<img></img>`를 사용합니다.
+>   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg">` 은 <img src="http://www.bibigo.com/img/kr/img_bap1.jpg">
