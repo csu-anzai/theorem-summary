@@ -121,3 +121,8 @@
     int main(void){
       printf("Hello World\n");
       }
+      
+    ```{.python}
+    def sum(a, b):
+        return a+b
+    ```
