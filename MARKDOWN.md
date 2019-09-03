@@ -66,7 +66,7 @@
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은  
->    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg){
+>    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
 > - `<img></img>`를 사용합니다. `width`와`height`를 사용해 크기를 조절할 수 있습니다.
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
@@ -76,15 +76,14 @@
 ### Markdown
 > - `-`나 `+`나 `*`를 사용합니다.
 
->> - 목차1은 `- 목차1`  
->> - 목차2는 `- 목차2`  
->> - 목차3은 `- 목차3`
+> - 목차1은 `- 목차1`  
+> - 목차2는 `- 목차2`  
+> - 목차3은 `- 목차3`
 
 > - `tab`으로 들여쓰기 하여 사용할수도 있습니다.  
->> - 목차1
->>   - 목차2 
->>     - 목차3
-   
->> `- 목차1`  
->>   `- 목차2`  
->>     `- 목차3`  
+> - 목차1
+>   - 목차2 
+>     - 목차3
+
+> 는 
+> ~[목차 예시]https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/%EB%AA%A9%EC%B0%A8.PNG
