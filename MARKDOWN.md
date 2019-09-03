@@ -52,7 +52,7 @@
 > - `~`을 사용하여 취소선 처리합니다.  
 >   `~~취소선~~` 은 ~~취소선~~  
 ~~### HTML
-> `<u><\u>` 를 이용하여 <u>밑줄</u>을 표현합니다.~~
+> `<u><\u>` 를 이용하여 <u>밑줄</u>을 표현합니다.~~  
 
 # 링크
 ## 웹
@@ -68,6 +68,14 @@
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은  
 >    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg){
 ### HTML
-> - `<img></img>`를 사용합니다.  
+> - `<img></img>`를 사용합니다. `width`와`height`를 사용해 크기를 조절할 수 있습니다.
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
+
+# 목차
+### Markdown
+> - `-`나 `+`나 `*`를 사용합니다.
+
+>   - 목차1은 `- 목차1`  
+>   -- 목차2는 `-- 목차2`  
+>   --- 목차3은 `--- 목차3`
