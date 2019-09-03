@@ -1,5 +1,3 @@
-\`아니.`
-
 # 문단 나누기
 ### Markdown
 > `enter` 2번 입력해     
@@ -49,7 +47,7 @@
 >   `_q_` 는 _q_  
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
-> - <img src="https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%60%EB%B8%94%EB%A1%9D%60.png" height="16">은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
+> - \`블록\`은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
 
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
@@ -107,13 +105,17 @@
 > * 목차8는 `* 목차8`  
 > * 목차9은 `* 목차9`  
 >> `tab`으로 들여쓰기 하여 사용할수도 있습니다.  
-> ![목차 예시](https://github.com/billCollection/theorem-summary/blob/master/설명용%20그림/MARKDOWN/목차.png)  
+>\- 목차1
+>\  - 목차2
+>\    - 목차3
 >  다음과 같이 표현됩니다.
 > - 목차1
 >   - 목차2 
 >     - 목차3
 >> 숫자를 사용할수도 있습니다.  
-> ![숫자 목차 예시](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%EC%88%AB%EC%9E%90%20%EB%AA%A9%EC%B0%A8.PNG)  
+>\1. 목차1
+>\1. 목차2
+>\1. 목차3
 > 다음과 같이 표현됩니다.
 > 1. 목차1
 > 1. 목차2
