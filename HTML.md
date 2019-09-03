@@ -24,11 +24,11 @@ tag | 의미 설명
 
 tag|의미 설명
 -----------------|--------------------  
-`<title></title` | 브라우저에서 보이는 제목  
+`<title></title?` | 브라우저에서 보이는 제목  
 `<meta charset=”utf-8”>` | utf-8방식으로 저장  
-`<head><\/head>`| 본문을 설명  
-`<body><\/body>`| 본문  
-`<html><\/html>`| \<head>와 \<body>를 감쌈  
+`<head></head>`| 본문을 설명  
+`<body></body>`| 본문  
+`<html></html>`| \<head>와 \<body>를 감쌈  
 `<!doctype html>` | html 파일임을 표시 
 
 ```HTML
@@ -56,7 +56,7 @@ tag|의미 설명
 
 tag | 의미 설명
 ----------|-----------------
-`<a></a>` | anchor, 닻; 링크를 달 때 사용  
+`<a></a>` | anchor, 닻 -> 링크를 달 때 사용  
  `href` | hypertext reference, 링크  
  `target="_blank"` | 새 탭에서 열기  
  `title` | 커서를 가져다 댔을 때 보이는 텍스트  
@@ -66,7 +66,7 @@ tag | 의미 설명
 
 <br><br>
  
-부가기능 | 설명  
+추가기능 | 설명  
 ---------|-----------------------  
 WAMP(Windows Apache MySQL PHP) | Apache 서버 구축     
 댓글 기능 추가 | disqus / LiveRe  
@@ -74,7 +74,7 @@ WAMP(Windows Apache MySQL PHP) | Apache 서버 구축
 
 **아래 추가기능은 \<head>에 삽입해야함**  
 
-부가기능 |  설명  
+추가기능 |  설명  
 ---------|--------------  
 웹 분석 | Google Analytics  
 광고 추가 | Google AdSense  
