@@ -130,10 +130,10 @@
 def sum(a, b):  
 return a+b  
 ```  
->\```c
->void f()
->    printf(%s,"Hello world!");
->}
+>\```c  
+>void f()  
+>    printf(%s,"Hello world!");  
+>}  
 >\```  
 > 다음과 같이 표현됩니다.  
 ```c
