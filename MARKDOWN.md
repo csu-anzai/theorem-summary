@@ -48,6 +48,9 @@
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
 > - \`블록\`은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
+> - Markdown 문법을 표현하려 할 때 `\`를 이용합니다.
+>   `\*q*` 는 \*q*
+
 
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
