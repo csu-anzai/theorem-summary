@@ -121,25 +121,25 @@
 # 코드 표현
 ### Markdown
 > - ` 을 3번 사용합니다. 코드에 맞는 언어를 입력하면 highlighting 기능도 적용됩니다.  
->> python
->\```python  
->def sum(a, b):  
->return a+b  
->\```  
-> 다음과 같이 표현됩니다.  
+>> python 
+\```python  
+def sum(a, b):  
+return a+b  
+\```  
+>다음과 같이 표현됩니다.  
 ```python  
 def sum(a, b):  
 return a+b  
 ```  
 >> c language  
 >\```c  
->void f()  
+>void f(){  
 >    printf(%s,"Hello world!");  
 >}  
 >\```  
 > 다음과 같이 표현됩니다.  
 ```c
-void f()
+void f(){
     printf(%s,"Hello world!");
 }
 ```
