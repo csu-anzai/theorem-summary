@@ -3,14 +3,11 @@ tag | 의미 설명
 `<u></u>` | underline, 밑줄
 `<strong></strong>` | bold, 굵게  
 `<h1></h1> ~ <h6></h6>` | heading, 제목. 자동 줄바꿈됨 
-
 `<!-- content -->` | 주석 처리  
 `<i></i> or <em></em>` | 기울림 처리  
-
 `<p></p>` | paragraph, 문단 구분  
 `<br>` | break, 줄바꿈  
 `<img src="image.jpg" width="% or value">` | image, 사진 첨부 / src = source, 출처
-
 `<li></li>` | list, 목차  
 `<ul></ul>` | unordered list, \<li>를 묶는 태그  
 `<ol></ol>` | ordered list, 1. 2. 3. … 식으로 순서를 매겨줌  
@@ -22,10 +19,11 @@ tag | 의미 설명
 	<li>text3</li>  
 </ul>  //또는 </ol> 을 사용
 ```
+
+tag|의미 설명
+-----------------|--------------------  
 `<title></title` | 브라우저에서 보이는 제목  
 `<meta charset=”utf-8”>` | utf-8방식으로 저장  
-
-
 `<head><\/head>`| 본문을 설명  
 `<body><\/body>`| 본문  
 `<html><\/html>`| \<head>와 \<body>를 감쌈  
