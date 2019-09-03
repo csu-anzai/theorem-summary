@@ -49,8 +49,8 @@
 
 ## 선
 ### Markdown
-> - `~` 사용하여 취소선 처리합니다.  
->   `~~취소선~~` 은 ~~취소선~~
+> - `~`을 사용하여 취소선 처리합니다.  
+>   `~~취소선~~` 은 ~~취소선~~  
 ~~### HTML
 > `<u><\u>` 를 이용하여 <u>밑줄</u>을 표현합니다.~~
 
@@ -66,3 +66,6 @@
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은 ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
+### HTML
+> - `<a></a>`를 사용합니다.
+>   `<a href="http://www.bibigo.com/img/kr/img_bap1.jpg">밥</a>` 은 <a href="http://www.bibigo.com/img/kr/img_bap1.jpg">밥</a>
