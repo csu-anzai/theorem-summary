@@ -2,29 +2,22 @@
 ### Markdown
 > `enter` 2번 입력해     
 >
-> 문단을 나눌수 있습니다.         
+> 문단을 나눌수 있습니다.
+> - 단, `enter`를 많이 입력해도 여러번 문단이 나뉘지 않습니다.
 ### HTML
 > `<p></p>`을 사용해 <p>나눌수도 있습니다.</p>
 >> p : paragraph, 문단
+<br><br>
 
 # 개행
 ### Markdown
 > 문장의 마지막에 `space bar`  
 > 2번 입력해 개행합니다.  
-> - 단, 4번 입력하여 2번 개행되지는 않습니다.
+> - 단, `space bar`를 많이 입력해도 여러번 개행되지는 않습니다.
 ### HTML
 > `<br>`을 사용해 <br>개행합니다.
 >> br : break, 개행  
-
-
-
-
-
-
-
-
-
-
+<br><br>
 
 # 제목
 ### Markdown
@@ -35,6 +28,7 @@
 >     #### 제목은 `#### 제목`
 >     ##### 제목은 `##### 제목` 
 >     ###### 제목은 `###### 제목`  
+<br><br>
 
 # 글씨 표현
 ## 강조
@@ -62,6 +56,7 @@
 ### Markdown
 > - `~`을 사용하여 취소선 처리합니다.  
 >   `~~취소선~~` 은 ~~취소선~~  
+<br><br>
 
 # 링크
 ## 웹
@@ -75,6 +70,7 @@
 > - `<a href></a>`를 사용합니다.
 >   `<a href="http://naver.com">네이버</a>` 는 <a href="http://naver.com">네이버</a>
 >> a : anchor, 닻 / href : hypertext reference
+
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
@@ -86,6 +82,7 @@
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
 >> img : imgae, 이미지 / src : source, 출처  
+<br><br>
 
 # 목차
 ### Markdown
