@@ -49,23 +49,26 @@ tag|의미 설명
 </body>  
 </html>  
 ```
-
+tag | 의미 설명
+----------|-----------------
 `<a></a>` | anchor, 닻; 링크를 달 때 사용  
- 
+ `href` | hypertext reference, 링크  
+ `target="_blank"` | 새 탭에서 열기  
+ `title` | 커서를 가져다 댔을 때 보이는 텍스트  
 ```HTML
 <a href="https|//mpllc.sen.go.kr/" target="_blank" title="마포도서관 홈페이지">마포도서관</a>
 ```
-\-	href | hypertext reference, 링크  
-\-	target=”_blank” | 새 탭에서 열기  
-\-	title | 커서를 가져다 댔을 때 보이는 텍스트  
-  
-\-	WAMP(Windows Apache MySQL PHP) | Apache 서버 구축  
-\-	동영상 삽입은 그냥 소스만 추가하면 됨  
-\-	댓글 기능 추가 | disqus / LiveRe  
-\-	채팅 기능 추가 | tawk  
 
+	
+ 
+부가기능 | 설명  
+---------|-----------------------  
+WAMP(Windows Apache MySQL PHP) | Apache 서버 구축     
+댓글 기능 추가 | disqus / LiveRe  
+채팅 기능 추가 | tawk  
 
-**아래 추가기능은 \<head>에 삽입해야함**
-
-\-	웹 분석 | Google Analytics  
-\-	광고 추가 | Google AdSense  
+**아래 추가기능은 \<head>에 삽입해야함**  
+부가기능 |  설명  
+---------|--------------  
+웹 분석 | Google Analytics  
+광고 추가 | Google AdSense  
