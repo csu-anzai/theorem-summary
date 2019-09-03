@@ -85,7 +85,7 @@
 >   `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
->> img : imgae, 이미지 / src : source, 출처
+>> img : image, 이미지 / src : source, 출처
 
 <br><br>
 
@@ -111,3 +111,13 @@
 >
 >  는 다음과 같습니다.  
 > ![목차 예시](https://github.com/billCollection/theorem-summary/blob/master/설명용%20그림/MARKDOWN/목차.png)
+>> 숫자를 사용할수도 있습니다.
+> 1. 목차1
+> 1. 목차2
+> 1. 목차3
+
+ 
+  #include <stdio.h>
+  int main(void){
+      printf("Hello World\n");
+      }
