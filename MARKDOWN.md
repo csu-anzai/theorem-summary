@@ -128,7 +128,8 @@ return a+b
 ```python
 def sum(a, b):  
 return a+b  
-```<br>  
+``` 
+
 >\```c  
 >void f(){  
 >    printf(%s,"Hello world!");  
