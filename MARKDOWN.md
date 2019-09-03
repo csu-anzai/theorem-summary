@@ -65,7 +65,7 @@
 > http://www.google.co.kr
 ### HTML
 > - `<a href></a>`를 사용합니다.
->   <a href="naver.com">네이버</a>
+>   <a href="http://naver.com">네이버</a>
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
