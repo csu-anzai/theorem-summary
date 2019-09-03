@@ -116,14 +116,8 @@
 > 1. 목차1
 > 1. 목차2
 > 1. 목차3
-<p>
-    #include <stdio.h>
-    int main(void){
-      printf("Hello World\n");
-      }
-</p>   
 
-    ```{.python}
-    def sum(a, b):
-        return a+b
-    ```
+```{.python}
+def sum(a, b):
+return a+b
+```
