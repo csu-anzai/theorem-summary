@@ -62,7 +62,10 @@
 >   `[Google](http://www.google.co.kr)` 은 [Google](http://www.google.co.kr)
 >
 > - 또는 링크 자체를 삽입하여 사용합니다.
-> http://www.google.com
+> http://www.google.co.kr
+### HTML
+> - `<a href></a>`를 사용합니다.
+>   <a href="naver.com">네이버</a>
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
