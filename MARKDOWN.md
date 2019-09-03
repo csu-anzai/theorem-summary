@@ -120,7 +120,7 @@
 
 # 코드 표현
 ### Markdown
-> - ` 을 코드 맨앞과 맨뒤에 3번 사용합니다. 코드에 맞는 언어를 입력하면 highlighting 기능도 적용됩니다.  
+> - ` 을 코드 맨앞과 맨뒤에 3번 사용합니다. 코드에 맞는 언어를 입력하면 highlighting 기능도 적용됩니다.<br>  
 \```python  
 def sum(a, b):  
 return a+b  
@@ -128,8 +128,7 @@ return a+b
 ```python
 def sum(a, b):  
 return a+b  
-```  
-> - 
+```<br>  
 >\```c  
 >void f(){  
 >    printf(%s,"Hello world!");  
