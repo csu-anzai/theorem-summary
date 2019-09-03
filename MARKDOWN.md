@@ -6,7 +6,8 @@
 > - 단, `enter`를 많이 입력해도 여러번 문단이 나뉘지 않습니다.
 ### HTML
 > `<p></p>`을 사용해 <p>나눌수도 있습니다.</p>
->> p : paragraph, 문단  
+>> p : paragraph, 문단
+
 <br><br>
 
 # 개행
@@ -16,7 +17,8 @@
 > - 단, `space bar`를 많이 입력해도 여러번 개행되지는 않습니다.
 ### HTML
 > `<br>`을 사용해 <br>개행합니다.
->> br : break, 개행   
+>> br : break, 개행
+
 <br><br>
 
 # 제목
@@ -27,7 +29,8 @@
 >     ### 제목은 `### 제목`  
 >     #### 제목은 `#### 제목`
 >     ##### 제목은 `##### 제목` 
->     ###### 제목은 `###### 제목`  
+>     ###### 제목은 `###### 제목`
+
 <br><br>
 
 # 글씨 표현
@@ -55,7 +58,8 @@
 ## 선
 ### Markdown
 > - `~`을 사용하여 취소선 처리합니다.  
->   `~~취소선~~` 은 ~~취소선~~  
+>   `~~취소선~~` 은 ~~취소선~~
+
 <br><br>
 
 # 링크
@@ -81,7 +85,8 @@
 >   `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
->> img : imgae, 이미지 / src : source, 출처  
+>> img : imgae, 이미지 / src : source, 출처
+
 <br><br>
 
 # 목차
