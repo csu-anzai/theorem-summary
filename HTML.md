@@ -68,6 +68,7 @@ WAMP(Windows Apache MySQL PHP) | Apache 서버 구축
 채팅 기능 추가 | tawk  
 
 **아래 추가기능은 \<head>에 삽입해야함**  
+
 부가기능 |  설명  
 ---------|--------------  
 웹 분석 | Google Analytics  
