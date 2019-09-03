@@ -41,7 +41,9 @@
 >   `_q_` 는 _q_  
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
-> - ``(홑따옴표) 안에 글씨를 입력하면 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
+> - ![블록](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%EB%B8%94%EB%A1%9D.png)은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
+
+
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
 > - `<i></i>` 또는 `<em></em>`을 사용해 <i>기울림</i><em>처리</em> 
@@ -52,8 +54,6 @@
 ### Markdown
 > - `~`을 사용하여 취소선 처리합니다.  
 >   `~~취소선~~` 은 ~~취소선~~  
-~~### HTML
-> `<u><\u>` 를 이용하여 <u>밑줄</u>을 표현합니다.~~  
 
 # 링크
 ## 웹
@@ -69,7 +69,7 @@
 >   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은  
 >    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
-> - `<img></img>`를 사용합니다. `width`와`height`를 사용해 크기를 조절할 수 있습니다.
+> - `<img></img>`를 사용합니다. `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
 
