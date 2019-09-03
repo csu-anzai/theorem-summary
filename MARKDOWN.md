@@ -64,10 +64,10 @@
 > http://www.google.com
 ## 그림
 ### Markdown
-> - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.
->   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg){: width="300px" height="300px"}` 은  
->    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg){: width="300px" height="300px"}  
+> - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
+>   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)` 은  
+>    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg){
 ### HTML
-> - `<img></img>`를 사용합니다.
+> - `<img></img>`를 사용합니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
