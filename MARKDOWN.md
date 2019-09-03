@@ -42,7 +42,6 @@
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
 > - <img src="https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%60%EB%B8%94%EB%A1%9D%60.png" height="16">은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
->> img : imgae, 이미지 / src : source, 출처  
 
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
@@ -77,6 +76,7 @@
 >   `width`와`height`를 사용해 크기를 조절할 수 있습니다.  
 >   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">` 은  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
+>> img : imgae, 이미지 / src : source, 출처  
 
 # 목차
 ### Markdown
