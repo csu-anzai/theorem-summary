@@ -5,6 +5,7 @@
 > 문단을 나눌수 있습니다.         
 ### HTML
 > `<p></p>`을 사용해 <p>나눌수도 있습니다.</p>
+>> p : paragraph, 문단
 <br>
 
 # 개행
@@ -14,7 +15,7 @@
 > - 단, 4번 입력하여 2번 개행되지는 않습니다.
 ### HTML
 > `<br>`을 사용해 <br>개행합니다.
-<br>
+>> br : break, 개행  
 
 # 제목
 ### Markdown
@@ -24,8 +25,7 @@
 >     ### 제목은 `### 제목`  
 >     #### 제목은 `#### 제목`
 >     ##### 제목은 `##### 제목` 
->     ###### 제목은 `###### 제목` 
-<br>
+>     ###### 제목은 `###### 제목`  
 
 # 글씨 표현
 ## 강조
@@ -42,13 +42,13 @@
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
 > - <img src="https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%60%EB%B8%94%EB%A1%9D%60.png" height="16">은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
-
+>> img : imgae, 이미지 / src : source, 출처  
 
 ### HTML
 > - `<strong></strong>`을 사용해 <strong>굵게 처리</strong>.  
 > - `<i></i>` 또는 `<em></em>`을 사용해 <i>기울림</i><em>처리</em> 
-> - 둘다 사용하는 경우 <strong><i>굵게 기울림</strong></i>
-<br>
+> - 둘다 사용하는 경우 <strong><i>굵게 기울림</strong></i>  
+>> i : italic, 기울림 / em : emphasize, 강조하다
 
 ## 선
 ### Markdown
@@ -66,7 +66,7 @@
 ### HTML
 > - `<a href></a>`를 사용합니다.
 >   `<a href="http://naver.com">네이버</a>` 는 <a href="http://naver.com">네이버</a>
->> href : hypertext reference
+>> a : anchor, 닻 / href : hypertext reference
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
