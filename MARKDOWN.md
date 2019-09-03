@@ -94,4 +94,4 @@
 >     - 목차3
 >
 >  는 다음과 같습니다.  
-> ![목차 예시](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/%EB%AA%A9%EC%B0%A8.PNG)
+> ![목차 예시](https://github.com/billCollection/theorem-summary/blob/master/설명용%20그림/MARKDOWN/목차.png)
