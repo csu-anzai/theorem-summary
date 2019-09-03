@@ -125,18 +125,16 @@
 def sum(a, b):  
 return a+b  
 \```  
-다음과 같이 표현됩니다.  
 ```python
 def sum(a, b):  
 return a+b  
 ```  
-  
+> - 
 >\```c  
 >void f(){  
 >    printf(%s,"Hello world!");  
 >}  
 >\```  
-> 다음과 같이 표현됩니다.  
 ```c
 void f(){
     printf(%s,"Hello world!");
