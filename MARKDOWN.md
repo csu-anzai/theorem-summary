@@ -110,7 +110,7 @@
 > - 목차1
 >   - 목차2 
 >     - 목차3
->> 숫자를 사용할수도 있습니다.
+>> 숫자를 사용할수도 있습니다.  
 > ![숫자 목차 예시](https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%EC%88%AB%EC%9E%90%20%EB%AA%A9%EC%B0%A8.PNG)  
 > 다음과 같이 표현됩니다.
 > 1. 목차1
