@@ -97,13 +97,19 @@
 ## 그림
 ### Markdown
 > - `[]`와 `()`을 사용하되 맨앞에 !을 붙여 사용합니다.  
->   `![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)`<br>  
+```
+![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)  
+```
+
 >  이는 다음과 같이 표현됩니다.  
 >    ![밥](http://www.bibigo.com/img/kr/img_bap1.jpg)
 ### HTML
 > - `<img></img>`를 사용합니다.
 >   `width`와 `height`를 사용해 크기를 조절할 수 있습니다.  
->   `<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">`<br>  
+```
+<img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">
+```
+
 >   이는 다음과 같이 표현됩니다.  
 >   <img src="http://www.bibigo.com/img/kr/img_bap1.jpg" width="300px" height="300px">  
 >> img : image, 이미지 / src : source, 출처
