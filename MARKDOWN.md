@@ -117,7 +117,7 @@
 > 1. 목차2
 > 1. 목차3
 
-```{.python}
+```python
 def sum(a, b):
 return a+b
 ```
