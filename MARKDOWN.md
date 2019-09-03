@@ -41,7 +41,7 @@
 >   `_q_` 는 _q_  
 >   `__w__` 는 __w__  
 >   `___e___` 는 ___e___ 
-> - <img src="https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%60%EB%B8%94%EB%A1%9D%60.png" height="10">은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
+> - <img src="https://github.com/billCollection/theorem-summary/blob/master/%EC%84%A4%EB%AA%85%EC%9A%A9%20%EA%B7%B8%EB%A6%BC/MARKDOWN/%60%EB%B8%94%EB%A1%9D%60.png" height="15">은 `블록` 처리 됩니다. Inline Block Code 라고도 합니다.
 
 
 ### HTML
