@@ -117,12 +117,5 @@
 > 1. 목차2
 > 1. 목차3
 
-```python
-def sum(a, b):
-return a+b
+```abcdkaodkaskdas가나다란ㅁ암ㄴㅇㄴ망
 ```
-
-   
-    def sum(a, b):
-    return a+b
-
